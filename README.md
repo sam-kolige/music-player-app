@@ -22,13 +22,6 @@ This app allows users to play, pause, skip, shuffle, and manage a playlist with 
 
 ---
 
-## 📂 Project Structure
-music-player-app/
-│── index.html # Main HTML file
-│── styles.css # Styling and layout
-│── script.js # Player logic and interactivity
-└── README.md # Project documentation
-
 
 ---
 
@@ -59,4 +52,5 @@ Simply open the index.html file in your browser. No installation required.
 ### 📜 License
 
 This project is open source and available under the MIT License.
+
 
